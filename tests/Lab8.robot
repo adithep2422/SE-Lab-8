@@ -13,4 +13,4 @@ Open Browser To Login Page
 
 *** Test Cases *** 
 Pass Sure Sure
-    Log    Pipeline is working
+    Log    Pipeline is working correctly
